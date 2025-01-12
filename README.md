@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mohammad Yaghoubi!  
+# 👋 Hi, I'm Alex!  
 
 ### 🚀 About Me
 I'm a **Full-Stack Developer** and **Product Manager** with a passion for blockchain, fintech, and innovative web solutions. With over 10 years of experience in software development and project management, I specialize in creating high-performance platforms that drive value.
 
-- 🌍 **Based in**: Vienna, VA  
-- 💻 **Specialized in**: React, Node.js, TypeScript, WebSocket, Next.js  
+- 🌍 **Based in**: Great Falls, VA  
+- 💻 **Specialized in**: React, Node.js, TypeScript, WebSocket, Next.js, Microservice  
 - 🔗 **Blockchain Experience**: Managed and developed cryptocurrency exchange platforms  
 - 📈 **Leadership**: Led cross-functional teams to deliver successful products  
 
@@ -13,7 +13,7 @@ I'm a **Full-Stack Developer** and **Product Manager** with a passion for blockc
 ### 💼 My Skills
 #### **Programming & Technologies**
 - Frontend: React, Next.js, TypeScript, HTML5, CSS3
-- Backend: Node.js, Express, REST APIs, WebSocket
+- Backend: Node.js, Express, REST APIs, WebSocket, Microservice
 - Databases: MongoDB, PostgreSQL, MySQL
 - Tools: Git, Docker, Kubernetes, CI/CD (GitHub Actions)
 - Agile: Scrum, Kanban, SAFe
@@ -46,6 +46,6 @@ A modern task management tool with a focus on productivity and team collaboratio
 ---
 
 ### 📫 How to Reach Me
-- Email: mohammadyaghoubi@gmail.com  
+- Email: alex.ygh.tech@gmail.com  
 - LinkedIn: [linkedin.com/in/mohammadyaghoubi](https://linkedin.com/in/mohammadyaghoubi)  
-- Portfolio: [mohammadyaghoubi.dev](https://mohammadyaghoubi.dev)  
+ 
