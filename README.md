@@ -37,14 +37,6 @@ A modern task management tool with a focus on productivity and team collaboratio
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadyaghoubi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyaghoubi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 - Email: alex.ygh.tech@gmail.com  
 - LinkedIn: [linkedin.com/in/mohammadyaghoubi](https://linkedin.com/in/mohammadyaghoubi)  
