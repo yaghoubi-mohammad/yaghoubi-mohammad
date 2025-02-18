@@ -39,5 +39,5 @@ A modern task management tool with a focus on productivity and team collaboratio
 
 ### 📫 How to Reach Me
 - Email: alex.ygh.tech@gmail.com  
-- LinkedIn: [linkedin.com/in/mohammadyaghoubi](https://linkedin.com/in/mohammadyaghoubi)  
+- LinkedIn: [[linkedin.com/in/mohammadyaghoubi](https://www.linkedin.com/in/yaghoubimohammad)]
  
